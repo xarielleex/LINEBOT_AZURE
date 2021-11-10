@@ -13,8 +13,8 @@ namespace linebotluis.Controllers
         const string AdminUserId= "!!!改成你的AdminUserId!!!";
         */
 
-        const string channelAccessToken = "/9McZ/eIZMVSfyFwKTY911lndu7BjPZz+UPOTruNQ/TKNzJsZhX3UgdEPqJpZ6efEhwGPHng1rdwNF36MEqlHiX3Z863Cz9MvSbLi6zMtK1iQjvplAiol42Y3aHAzo/AmeuzwDMeYrFcEW2V/2HFNQdB04t89/1O/w1cDnyilFU=";
-        const string AdminUserId = "Uadd2378521004fb34ef161153cb5d0a0";
+        const string channelAccessToken = "********";
+        const string AdminUserId = "******";
         [Route("api/LineWebHookSample")]
         [HttpPost]
         public IHttpActionResult POST()
