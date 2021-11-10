@@ -20,13 +20,13 @@ namespace linebotluis.Controllers
         // const string LuisAppKey = "~~~改成你的LuisAppKey~~~";
         //const string Luisdomain = "~~~改成你的Luisdomain~~~"; //ex.westus
 
-        const string channelAccessToken = "/9McZ/eIZMVSfyFwKTY911lndu7BjPZz+UPOTruNQ/TKNzJsZhX3UgdEPqJpZ6efEhwGPHng1rdwNF36MEqlHiX3Z863Cz9MvSbLi6zMtK1iQjvplAiol42Y3aHAzo/AmeuzwDMeYrFcEW2V/2HFNQdB04t89/1O/w1cDnyilFU=";
-        const string AdminUserId = "Uadd2378521004fb34ef161153cb5d0a0";
-        const string LuisAppId = "f658d550-aa8f-4102-8a7f-8f2462cd59b2";
-        const string LuisAppKey = "86b7db040e9e4e759937ddef96ee62a8";
+        const string channelAccessToken = "*********=";
+        const string AdminUserId = "******************";
+        const string LuisAppId = "*-*********************";
+        const string LuisAppKey = "***********************";
         const string Luisdomain = "westus"; //ex.westus
         private const string EndpointUrl = "https://webdb.documents.azure.com:443/";
-        private const string PrimaryKey = "yKg5PPPcZRyPPeSnEdja1NjVWjrJ97EGdeEoPvc1WBBl4W7Im8jj4NCIubrXe6BEfGL360TbhLWBYZQkVJkfUQ==";
+        private const string PrimaryKey = "***********************==";
         [Route("api/TestLUIS")]
         [HttpPost]
         public IHttpActionResult POST()
