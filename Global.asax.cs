@@ -17,7 +17,7 @@ namespace linebotluis
     public class WebApiApplication : System.Web.HttpApplication
     {
         private const string EndpointUrl = "https://webdb.documents.azure.com:443/";
-        private const string PrimaryKey = "yKg5PPPcZRyPPeSnEdja1NjVWjrJ97EGdeEoPvc1WBBl4W7Im8jj4NCIubrXe6BEfGL360TbhLWBYZQkVJkfUQ==";
+        private const string PrimaryKey = "*****";
 
         protected void Application_Start()
         {
