@@ -13,8 +13,8 @@ namespace linebotluis
         //const string channelAccessToken = "!!!!! 改成自己的ChannelAccessToken !!!!!";
         // const string AdminUserId= "!!!改成你的AdminUserId!!!";
         
-        const string channelAccessToken = "pE0p9oAbP3F=+8eFEZrR7bNZM3z5SNrnExSPytHtDo84C1MoMqkObkFDEes06ZtqhEhwGPHng1rdwNF36MEqlHiX3Z863Cz9MvSbLi6zMtK0heTr+Bhq2Lc4Z9EV7CRk542Kuc6nv/Mr1kpz/w6tw5AdB04t89/1O/w1cDnyilFU=";
-        const string AdminUserId = "Uadd2378521004fb34ef161153cb5d0a0";
+        const string channelAccessToken = "*************";
+        const string AdminUserId = "*****************";
         protected void Page_Load(object sender, EventArgs e)
         {
 
